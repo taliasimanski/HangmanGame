@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HangmanGame</string>
+    <string name="button_play">Play Game</string>
+    <string name="empty_label"> </string>
+    <string name="ID_textBox">Enter your name</string>
+    <string name="guess_textBox">Enter your guess</string>
+    <string name="submit_button">Submit</string>
+    <string name="hm_Image"> </string>
+    <string name="playAgain_button">Play Again</string>
+
+</resources>
